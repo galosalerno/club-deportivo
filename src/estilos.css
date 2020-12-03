@@ -1,0 +1,38 @@
+
+.banner{
+    width: 100%;
+    height: 20rem;
+    background-image: url("https://scontent.faep8-2.fna.fbcdn.net/v/t1.0-9/107075159_3210792012293297_496032557257829530_n.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=Ht8KTG2dXUkAX_Lg1iX&_nc_ht=scontent.faep8-2.fna&oh=0d90d869b176974f870aa2cdd279f229&oe=5FEB0F04");
+}
+.galeria > img{
+    width: 10rem;
+    height: 10rem;
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 30px;
+}
+.galeria > img:hover{
+
+    width: 15rem;
+    height: 15rem;
+    border: 2px solid black;
+    
+}
+
+.foto > img{
+    opacity: 50%;
+    width:90px;
+    height:90px;
+}
+.fotoDiego > img{
+    width: 20rem;
+    height: 40rem;
+    border-radius: 30px;
+    opacity: 50%;
+}
+.tituloDiego{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 2rem;
+}
